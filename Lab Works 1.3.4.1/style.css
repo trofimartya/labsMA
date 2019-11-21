@@ -1,0 +1,58 @@
+header, footer {
+    background-color: #ffb718;
+    padding: 50px;
+}
+header {
+    text-align: center;
+}
+footer {
+    text-align: center;
+}
+header button, footer button { 
+   box-shadow:inset 0px 0px 14px -3px #f2fadc;
+    background:linear-gradient(to bottom, #dbe6c4 5%, #9ba892 100%);
+    background-color:#dbe6c4;
+    border-radius:6px;
+    border:1px solid #b2b8ad;
+    display:inline-block;
+    cursor:pointer;
+    color:#757d6f;
+    font-family:Arial;
+    font-size:15px;
+    font-weight:bold;
+    padding:6px 24px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #ced9bf;
+}
+
+.block {
+    border-width: 5px;
+    border-style: solid;
+    border-color: red;
+    margin: 20px;
+    padding: 15px;
+}
+.text {
+    margin: 10px;
+    background-color: beige;
+}
+.block button{
+    box-shadow: 0px 10px 14px -7px #276873;
+    background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+    background-color:#599bb3;
+    border-radius:20px;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:12px;
+    font-weight:bold;
+    padding:5px 5px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #3d768a;
+}
+.block > button {
+    background-color: black;
+    color: red;
+}
+
