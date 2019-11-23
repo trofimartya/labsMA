@@ -1,11 +1,16 @@
-header, footer {
+header {
     background-color: #ffb718;
     padding: 50px;
-}
-header {
     text-align: center;
+    border-color: green;
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 5px;
+
 }
 footer {
+    background-color: #ff3341;
+    padding: 60px;
     text-align: center;
 }
 header button, footer button { 
@@ -24,7 +29,10 @@ header button, footer button {
     text-decoration:none;
     text-shadow:0px 1px 0px #ced9bf;
 }
-
+header button:hover, footer button:hover {
+    color: red;
+    box-shadow:inset 20px 0px 19px -3px #f2fadc;
+}
 .block {
     border-width: 5px;
     border-style: solid;
@@ -50,6 +58,9 @@ header button, footer button {
     padding:5px 5px;
     text-decoration:none;
     text-shadow:0px 1px 0px #3d768a;
+}
+.block button:hover {
+    color: green;
 }
 .block > button {
     background-color: black;
