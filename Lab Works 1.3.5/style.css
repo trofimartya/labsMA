@@ -1,0 +1,74 @@
+body {
+  background: url(world-map.png) no-repeat;
+   -moz-background-size: 100%; /* Firefox 3.6+ */
+    -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+    -o-background-size: 100%; /* Opera 9.6+ */
+    background-size: cover ; /* Современные браузеры */
+   }
+h1 {
+    font-family: cursive;
+    letter-spacing: 5px;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold; 
+}
+h2 {
+    font-family: sans-serif;
+    letter-spacing: 3px;
+    text-align: justify;
+    font-style: italic;
+    font-weight: bold; 
+    text-indent: 50px;
+}
+
+ul { 
+  width: 100%;
+    float: left;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    text-align: center;
+}
+li {
+    width: 15%;
+    float: left;
+    margin-left: 2%;
+        text-align: center;
+}
+li:first-child {
+    margin-left: 0;
+}
+a {
+  color: black;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 0.15em;
+  
+  display: inline-block;
+  padding: 15px 20px;
+  position: relative;
+}
+a:after {    
+  background: none repeat scroll 0 0 transparent;
+  bottom: 0;
+  content: "";
+  display: block;
+  height: 2px;
+  left: 50%;
+  position: absolute;
+  background: black;
+  transition: width 0.3s ease 0s, left 0.3s ease 0s;
+  width: 0;
+}
+a:hover:after { 
+  width: 100%; 
+  left: 0; 
+}
+a:visited {
+  color: red;
+}
+@media screen and (max-height: 300px) {
+    ul {
+        margin-top: 40px;
+    }
+}
