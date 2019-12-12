@@ -1,0 +1,33 @@
+.div {
+  background: url(lol.jpg) repeat #fc0;
+  color: darkolivegreen ;
+  text-align: center;
+  margin: 45px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.div:hover {
+  background: lightblue;
+  color: palevioletred;
+  text-align: center;
+}
+.box1 {
+  color: palevioletred;
+  background: darkred;
+  width: 100px;
+  height: 150px;
+}
+.box1:hover {
+  font-size: 444px;
+}
+.box2 {
+  background: url(lol.jpg) repeat #fc0;
+  width: 200px;
+}
+.box2:hover {
+  background: dodgerblue;
+  cursor: all-scroll;
+  font-size: 50px;
+}
+/*# sourceMappingURL=scratch.css.map */
