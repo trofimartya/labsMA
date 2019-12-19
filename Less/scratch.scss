@@ -1,3 +1,4 @@
+$font-stack: Helvetica, sans-serif;
 .progress-bar {
   display: -ms-flexbox;
   display: flex;
@@ -10,17 +11,15 @@
   text-align: center;
   white-space: nowrap;
   background-color: #bd2130;
-  transition: width 0.6s ease;
+  transition: width .6s ease;
 }
 
 #carouselExampleCaptions {
   width: 600px;
   display: flex;
   max-width: 100%;
-}
 
+}
 .carousel-control-next, .carousel-control-prev {
   width: 5%;
 }
-
-/*# sourceMappingURL=scratch.css.map */

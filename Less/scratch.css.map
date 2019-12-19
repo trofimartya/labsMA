@@ -1,1 +1,1 @@
-{"version":3,"sources":["scratch.less"],"names":[],"mappings":"AAIA;EACE,oCAAA;EACA,sBAAA;EACA,kBAAA;EACA,YAAA;EACA,aAAA;EACA,uBAAA;EACA,mBAAA;;AACA,IAAC;EACC,qBAAA;EACA,oBAAA;EACA,kBAAA;;AAIJ;EACE,oBAAA;EACA,mBAAA;EACA,YAAA;EACA,aAAA;;AACA,KAAC;EACC,gBAAA;;AAGJ;EACG,oCAAA;EACH,YAAA;;AACE,KAAC;EACC,sBAAA;EACA,kBAAA;EACA,eAAA","file":"scratch.css"}
+{"version":3,"sourceRoot":"","sources":["scratch.scss"],"names":[],"mappings":"AACA;EACE;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;;;AAGF;EACE;EACA;EACA;;;AAGF;EACE","file":"scratch.css"}

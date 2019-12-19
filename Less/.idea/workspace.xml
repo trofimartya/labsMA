@@ -1,26 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e6dcc32-38b8-407a-9ad6-c3014bbec50a" name="Default Changelist" comment="" />
+    <list default="true" id="80fb8fa4-3592-4e27-bbe8-9e4232ab29f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Less.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scratch_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Black page 2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Black page 2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lol.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scratch.css" beforeDir="false" afterPath="$PROJECT_DIR$/scratch.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scratch.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/scratch.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scratch.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables.less" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-      </list>
-    </option>
+  <component name="FavoritesManager">
+    <favorites_list name="Less" />
   </component>
-  <component name="ProjectId" id="1UtT9F6rzlLlgU5Bn9hphyC8zuF" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Uy0SG7mKjPYwv0Cv5itDsYchcE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="LESS" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="SCSS&#10;SASS&#10;HTML" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -32,7 +48,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Code\untitled" />
+      <recent name="C:\Users\Artem\Dropbox\Code\LabsMA\Less" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -52,17 +68,31 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9e6dcc32-38b8-407a-9ad6-c3014bbec50a" name="Default Changelist" comment="" />
-      <created>1576174739284</created>
+      <changelist id="80fb8fa4-3592-4e27-bbe8-9e4232ab29f6" name="Default Changelist" comment="" />
+      <created>1576313525829</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1576174739284</updated>
-      <workItem from="1576174743181" duration="881000" />
-      <workItem from="1576175957545" duration="2581000" />
+      <updated>1576313525829</updated>
+      <workItem from="1576313527028" duration="1709000" />
+      <workItem from="1576321734885" duration="51000" />
+      <workItem from="1576773710199" duration="7505000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
