@@ -1,5 +1,8 @@
-var age=prompt("Enter age");
-var gender = prompt("Enter gender");
-if (age>18 && gender==="female"){
-    alert ("Youre woman!")
-}else { alert ("Youre girl!")};
+function start() {
+    var a = prompt("Enter your answer");
+    if (a === "html") {
+        document.write('Cool');
+    } else {
+        document.write('Not Cool');
+    }
+}
