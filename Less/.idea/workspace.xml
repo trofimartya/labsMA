@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="80fb8fa4-3592-4e27-bbe8-9e4232ab29f6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../JS/scratch_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JS/scratch_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JS/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../JS/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -87,7 +86,8 @@
       <workItem from="1578588195821" duration="3000" />
       <workItem from="1578597448784" duration="505000" />
       <workItem from="1578730320262" duration="1403000" />
-      <workItem from="1578732680279" duration="6143000" />
+      <workItem from="1578732680279" duration="6775000" />
+      <workItem from="1579797436262" duration="9816000" />
     </task>
     <task id="LOCAL-00001" summary="js">
       <created>1578129050853</created>
@@ -117,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578136197779</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="jsVer4">
+      <created>1578739027124</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578739027125</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +147,7 @@
     <MESSAGE value="js" />
     <MESSAGE value="jsVer2" />
     <MESSAGE value="jsVer3" />
-    <option name="LAST_COMMIT_MESSAGE" value="jsVer3" />
+    <MESSAGE value="jsVer4" />
+    <option name="LAST_COMMIT_MESSAGE" value="jsVer4" />
   </component>
 </project>
